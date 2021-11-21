@@ -1,5 +1,6 @@
 # Geoengineering Public Summary
-#### November 21st, 2021
+#### Gillian Arkell, Joseph Hofmann, Navneet Kang, Shania Ramharrack-Maharaj
+#### November 21<sup>st</sup>, 2021
 #### ISCI 3A12
 
 ## Introduction
